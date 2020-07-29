@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro proyecto de nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarJP006/bootstrap4.git"
+  },
+  "author": "Edgar Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarJP006/bootstrap4/issues"
+  },
+  "homepage": "https://github.com/EdgarJP006/bootstrap4#readme"
+}
